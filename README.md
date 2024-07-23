@@ -6,7 +6,7 @@
 ## Quick Start
 Run `main.py` to start the app.
 
-### Previews
+## Previews
 
  ![WhatsApp Image 2024-07-23 at 16 55 52_708a9317](https://github.com/user-attachments/assets/81264654-8d8c-4a67-904f-884ddc6f576c)
  *Resize and Move CPU Graphs.*
